@@ -24,8 +24,9 @@ pretty_urls:
 # Header
 menu:
   About: /About
-  Blog: https://blog.tiffanylo.dev
+  # Blog: https://medium.com/@tiffany.lo
   Contact: /Contact
+  GitHub: https://github.com/missamii
   Twitter: https://twitter.com/dev_tiffanylo
   LinkedIn: https://www.linkedin.com/in/tiffanylocodes/
 
